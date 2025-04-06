@@ -1,1 +1,16 @@
 
+# Super Trunfo – Lógica de Programação
+
+Desafio individual da disciplina de **Lógica de Programação** – Estácio.
+
+## Descrição
+
+Simulação de um jogo inspirado no Super Trunfo, usando lógica condicional, estrutura de decisão e menus interativos em linguagem C.
+
+## Execução
+
+Para compilar e rodar no terminal:
+
+```bash
+gcc super_trunfo.c -o super_trunfo
+./super_trunfo
